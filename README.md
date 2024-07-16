@@ -11,11 +11,12 @@ In this project i have covered multiple scenarios like
 here automate this scenarios using selenium java with chromeDriver, using selenium classes,methods & before quit the browser each scenario output will be stored in my device
 some are the following
 
-![Screenshot 2024-07-09 165700](https://github.com/chaitanya2217/Selenium-Amazon.in-E-Commerce-website/assets/130820074/687f2ea8-f5ec-42d0-9f5b-a5a8fbb918d9)
+![Screenshot 2024-07-09 165700](https://github.com/user-attachments/assets/fa90b420-41a2-4e27-b72c-ae045d90d4e5)
 
-![Screenshot 2024-07-09 165636](https://github.com/chaitanya2217/Selenium-Amazon.in-E-Commerce-website/assets/130820074/1a4c3242-8f87-488c-82d3-9f4f63319883)
+![Screenshot 2024-07-09 165636](https://github.com/user-attachments/assets/2d050994-8eca-4cc3-aa27-72d3a0c2b132)
 
-![Screenshot 2024-07-09 165618](https://github.com/chaitanya2217/Selenium-Amazon.in-E-Commerce-website/assets/130820074/ff54cc6a-4b39-496b-811c-97268d4dd57a)
+![Screenshot 2024-07-09 165618](https://github.com/user-attachments/assets/b2fe351f-215d-43be-b813-3ff15df4d505)
+
 
 
 all scenarios coverd with validation points like assert, isDesplayed, isEnabled, if-else condtions. 
